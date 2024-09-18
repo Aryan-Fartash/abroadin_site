@@ -5,5 +5,5 @@ app_name='blog'
 
 urlpatterns = [
     path('', blog_view , name='index' ),
-    path('4-challenges-international-students-face-in-the-us/')
+    #path('4-challenges-international-students-face-in-the-us/')
 ]
